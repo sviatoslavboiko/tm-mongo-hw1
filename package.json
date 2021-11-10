@@ -7,7 +7,7 @@
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Igor Shmidt",
+  "author": "Sviatoslav Boiko",
   "license": "ISC",
   "dependencies": {
     "faker": "^5.1.0",

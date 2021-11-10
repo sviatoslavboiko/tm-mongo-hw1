@@ -7,7 +7,7 @@ const MongoClient = require('mongodb').MongoClient
 
 const state = {
 	db: null,
-	client: null
+	client: null 
 }
 
 module.exports.connect = () => {
